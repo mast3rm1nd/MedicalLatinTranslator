@@ -1,0 +1,14 @@
+﻿<Window x:Class="MedicalLatinTranslator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Medical Latin Translator" Height="133" Width="373" Loaded="Window_Loaded" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Слово для перевода:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ComboBox_Search" HorizontalAlignment="Left" Margin="140,14,0,0" VerticalAlignment="Top" Width="194" IsEditable="True" KeyDown="ComboBox_Search_KeyDown" SelectionChanged="ComboBox_Search_SelectionChanged" IsTextSearchEnabled="False" KeyUp="ComboBox_Search_KeyUp"/>
+        <TextBox x:Name="TextBox_Translation" HorizontalAlignment="Left" Height="23" Margin="140,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194"/>
+        <Label Content="Перевод:" HorizontalAlignment="Left" Margin="74,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox_Alternative_Translation" HorizontalAlignment="Left" Height="23" Margin="641,78,-87,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+        <Label Content="Другие варианты:" HorizontalAlignment="Left" Margin="527,75,0,0" VerticalAlignment="Top" Width="109"/>
+    </Grid>
+</Window>

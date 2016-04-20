@@ -1,0 +1,17 @@
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\bin\Debug\MedicalLatinTranslator.exe.config
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\bin\Debug\MedicalLatinTranslator.exe
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\bin\Debug\MedicalLatinTranslator.pdb
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\App.g.cs
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.g.resources
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.csproj.GenerateResource.Cache
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.exe
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.pdb
+C:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\bin\Debug\WPF_AutoCompleteComboBox.dll
+E:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\bin\Debug\MedicalLatinTranslator.exe.config
+E:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.exe
+E:\Dropbox\!Coding\All_in_one\MedicalLatinTranslator\MedicalLatinTranslator\obj\Debug\MedicalLatinTranslator.pdb
